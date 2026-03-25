@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Darts Checkout</string>
+    <string name="btn_calculate">IZRAČUNAJ</string>
+    <string name="hint_score">Unesi rezultat (2-170)</string>
+    <string name="hint_dart1">Prva strelica</string>
+    <string name="hint_dart2">Druga strelica</string>
+    <string name="hint_dart3">Treća strelica</string>
+    <string name="btn_dart1">PRVA STRELICA</string>
+    <string name="btn_dart2">DRUGA STRELICA</string>
+    <string name="btn_dart3">TREĆA STRELICA</string>
+    <string name="checkout_title">🎯 CHECKOUT!</string>
+    <string name="checkout_message">Čestitamo! Završio si!</string>
+    <string name="new_game">Nova igra</string>
+    <string name="close">Zatvori</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
