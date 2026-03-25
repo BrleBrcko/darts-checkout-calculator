@@ -10,8 +10,6 @@ This app was developed as a **portfolio project** to showcase practical Android 
 - Simple and intuitive user interface  
 - Works offline (no internet connection required)
 
-*(Add screenshots of the app in the `screenshots/` folder)*
-
 ## Technologies Used
 - **Android Studio** – Development IDE  
 - **Kotlin** – Programming language  
