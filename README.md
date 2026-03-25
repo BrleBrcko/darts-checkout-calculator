@@ -15,7 +15,3 @@ This app was developed as a **portfolio project** to showcase practical Android 
 - **Kotlin** – Programming language  
 - **XML Layouts** – User interface design
 
-## How to Run the App
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/darts-checkout-calculator.git
